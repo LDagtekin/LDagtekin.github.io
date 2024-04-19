@@ -46,33 +46,7 @@ a{
     margin-bottom: 200px;
 }
 
-.info{ 
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-top: 90px;
-    justify-content: center;
-
-}
-
-.picture{
-    border-radius: 600px;
-    width: 300px;
-    margin-right: 100px;
-}
-
-.text{
-    width: 300px;
-    text-align: center;
-    margin-top: 40px;
-}
 .navc{
     display: flex;
     justify-content: center;
-}
-
-.about{
-    display: flex;
-    justify-content: center;
-    margin-top: 100px;
-}
+}   
