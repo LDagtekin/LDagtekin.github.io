@@ -12,41 +12,19 @@
   }
 
 .header{
-    height: 70px;
+   
     background-color: var(--blue);
     color: var(--lime);
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
 
-.header p{
-    margin-top: 20px;
-    font-size: 40px;
 }
 
 .nav{
-    height: 30px;
     background-color: var(--blue);
-
-    display: flex;
-    gap: 50px;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    /* padding-left: 700px;
-    padding-right: 700px; */
 }
 
 a{
     text-decoration: none;
     color: var(--lime);
-    margin-bottom: 200px;
 }
 
-.navc{
-    display: flex;
-    justify-content: center;
-}
