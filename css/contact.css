@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --blue: #233d4d;
+    --white: #ffffff;
+    --lime: #9bc53d;
+    --cyan: #1b998b;
+  }
+
+.header{
+    background-color: var(--blue);
+    color: var(--lime);
+}
+
+.navbar{
+    background-color: var(--blue);
+}
+
+a{
+    text-decoration: none;
+    color: var(--lime);
+}
