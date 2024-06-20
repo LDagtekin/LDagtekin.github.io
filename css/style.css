@@ -17,6 +17,10 @@
     color: var(--lime);
 }
 
+.header a{
+    color: var(--lime);
+}
+
 .bottom-border{
     border-bottom: 2px solid var(--blue);
     padding-bottom: 5px;
@@ -44,3 +48,6 @@ a{
     color: black;
 }
 
+.about{
+    background-color: var(--cyan);
+}
